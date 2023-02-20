@@ -9,6 +9,7 @@
         <module>infrastructure</module>
         <module>infrastructure/kafka</module>
         <module>infrastructure/kafka/kafka-producer</module>
+        <module>order-api/order-messaging</module>
     </modules>
 
     <parent>
